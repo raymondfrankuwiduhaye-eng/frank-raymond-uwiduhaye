@@ -48,7 +48,7 @@ I am a passionate software engineer and student dedicated to building robust des
 ### GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=frank_raymmond_uwiduhaye&show_icons=true&theme=dark" alt="Amicus's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=frank_raymmond_uwiduhaye&show_icons=true&theme=dark" alt="Raymond's GitHub Stats" />
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frank_raymond_uwiduhaye&layout=compact&theme=dark" alt="Top Languages" />
 </p>
